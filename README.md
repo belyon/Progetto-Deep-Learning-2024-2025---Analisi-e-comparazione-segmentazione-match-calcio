@@ -1,4 +1,4 @@
-<h1><b>Progetto Deep-Learning-2024-2025 - Analisi-e-comparazione-segmentazione-dominio calcio</b>b></h1><br>
+<h1><b>Progetto Deep-Learning-2024-2025 - Analisi-e-comparazione-segmentazione-dominio calcio</b></h1><br>
 <h2>Studenti: Riccardo Spano (449367) - Alessio Prete (533010) </h2>
 
 
