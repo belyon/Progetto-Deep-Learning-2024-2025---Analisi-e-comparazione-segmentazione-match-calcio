@@ -4,7 +4,7 @@
 
 <h3> Informazioni </h3>
 L'obiettivo principale di questo progetto è stato condurre un'analisi comparativa 
-delle prestazioni di tre moderne architetture di deep learning <b>YOLOv8</b>, <b>Segment Anything (SAM) (1 e 2 video nativo)</b> e <b>Mask2Former</b> applicate al task di segmentazione di scene di partite di calcio
+delle prestazioni di tre moderne architetture di deep learning <b>YOLOv8</b>, <b>Segment Anything (SAM) (1 e 2 video nativo)</b> e <b>Mask2Former</b> applicate al task di segmentazione di scene di partite di calcio, <br>
 La sperimentazione è consistita nel testare i modelli pre-addestrati su:<br>
 <br>-	O fotogrammi estratti da una breve clip
 <br>-	O direttamente su video nel caso di SAM 2
